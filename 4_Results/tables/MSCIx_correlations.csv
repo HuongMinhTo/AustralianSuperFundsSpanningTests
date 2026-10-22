@@ -1,0 +1,10 @@
+,Australian Shares,International Shares,Australian Property,International Property,Infrastructure,Australian Fixed Interest,Global Fixed Interest,Gold,Bitcoin
+Australian Shares,1.0,0.638,0.832,0.748,0.689,0.263,0.381,-0.213,0.273
+International Shares,0.638,1.0,0.618,0.521,0.491,0.34,0.31,-0.152,0.3
+Australian Property,0.832,0.618,1.0,0.779,0.672,0.424,0.534,-0.073,0.253
+International Property,0.748,0.521,0.779,1.0,0.835,0.341,0.593,-0.187,0.152
+Infrastructure,0.689,0.491,0.672,0.835,1.0,0.29,0.527,-0.078,0.193
+Australian Fixed Interest,0.263,0.34,0.424,0.341,0.29,1.0,0.811,0.249,0.067
+Global Fixed Interest,0.381,0.31,0.534,0.593,0.527,0.811,1.0,0.205,0.132
+Gold,-0.213,-0.152,-0.073,-0.187,-0.078,0.249,0.205,1.0,-0.049
+Bitcoin,0.273,0.3,0.253,0.152,0.193,0.067,0.132,-0.049,1.0

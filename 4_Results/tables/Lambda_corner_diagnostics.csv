@@ -1,0 +1,27 @@
+Fund,lambda,mean_w_Australian Shares,mean_w_International Shares,mean_w_Bonds,pct_months_at_corner,interior
+AustralianSuper,1,0.0008,0.9992,0.0,98.8,False
+AustralianSuper,2,0.0014,0.9986,0.0,98.8,False
+AustralianSuper,3,0.0019,0.9981,0.0,96.3,False
+AustralianSuper,4,0.0037,0.9963,0.0,93.9,False
+AustralianSuper,5,0.0073,0.9927,0.0,89.0,False
+AustralianSuper,6,0.0126,0.9874,0.0,82.9,False
+AustralianSuper,7,0.0201,0.9797,0.0001,69.5,False
+AustralianSuper,8,0.0286,0.9685,0.0028,61.0,False
+AustralianSuper,9,0.0357,0.9419,0.0224,39.0,True
+AustralianSuper,10,0.0377,0.8924,0.0699,20.7,True
+AustralianSuper,25,0.0063,0.3459,0.6478,0.0,True
+AustralianSuper,50,0.0014,0.1525,0.8461,0.0,True
+AustralianSuper,100,0.0001,0.0549,0.945,0.0,True
+ART,1,0.0,1.0,0.0,100.0,False
+ART,2,0.0,1.0,0.0,100.0,False
+ART,3,0.0,1.0,0.0,100.0,False
+ART,4,0.0,1.0,0.0,100.0,False
+ART,5,0.0,1.0,0.0,100.0,False
+ART,6,0.0,0.9964,0.0036,93.9,False
+ART,7,0.0003,0.9817,0.018,85.4,False
+ART,8,0.0018,0.9639,0.0343,78.0,False
+ART,9,0.0031,0.9306,0.0663,51.2,False
+ART,10,0.0032,0.8807,0.1161,34.1,True
+ART,25,0.004,0.3728,0.6233,0.0,True
+ART,50,0.0051,0.1967,0.7981,0.0,True
+ART,100,0.0066,0.108,0.8854,0.0,True

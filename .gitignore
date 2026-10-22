@@ -1,0 +1,27 @@
+# Only the README, the code (3_Code) and the results (4_Results) are tracked.
+# Everything else in this folder stays on the local computer.
+/*
+!/.gitignore
+!/README.md
+!/3_Code/
+!/4_Results/
+
+# Data are never committed (licensed / third-party sources).
+2_Data/
+supplementary/
+*.pkl
+*Daily_Rates*.csv
+*Daily Rates*.csv
+BTCAUD*.csv
+GOLDAX*.csv
+
+# Manuscripts and other documents
+*.docx
+*.pdf
+
+# System and editor files
+.DS_Store
+__pycache__/
+*.pyc
+*.bak
+~$*

@@ -1,0 +1,4 @@
+series,first,last,T,mean_%pa
+BAUBIL (rf used everywhere),2001-09,2026-07,299,3.598
+AuSuper Cash option (overlap),2008-08,2026-07,216,2.794
+BAUBIL (same overlap),2008-08,2026-07,216,2.821
